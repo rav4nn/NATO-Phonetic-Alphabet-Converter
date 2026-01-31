@@ -41,10 +41,10 @@ It’s a beginner‑friendly project that demonstrates:
 ▶️ How to Run the Project
 
 Clone the repository:
-
-git clone https://github.com/your-username/nato-phonetic-alphabet.git
+```
+git clone https://github.com/rav4nn/nato-phonetic-alphabet.git
 cd nato-phonetic-alphabet
-
+```
 Install dependencies:
 ```
 pip install pandas
